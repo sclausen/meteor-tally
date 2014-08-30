@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Tally';
+  src: url('tally-mark.regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.tally {
+  font-family: 'Tally';
+  font-size: 28pt;
+}
